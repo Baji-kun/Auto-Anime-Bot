@@ -36,11 +36,13 @@
         "FIREBASE_URL": {
             "description": "Firebase endpoint URL, from Firebase Realtime Database",
             "value": ""
+            "required": false
         },
 
         "FIREBASE_SERVICE_ACCOUNT_FILE": {
             "description": "Firebase Service Account File Link, from Firebase Realtime Database",
             "value": ""
+            "required": false
         },
 
         "MAIN_CHANNEL": {
