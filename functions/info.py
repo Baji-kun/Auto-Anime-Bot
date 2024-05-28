@@ -30,8 +30,8 @@ class AnimeInfo:
         self.CAPTION = """
 **{}
 ━━━━━━━━━━━━━━━
-‣ Language:** `Japanese [ESub]`
-**‣ Quality:** `480p|720p|1080p`
+‣ Language:** `English [ESub]`
+**‣ Quality:** `480p | 720p| 1080p`
 **‣ Season:** `{}`
 **‣ Episode:** `{}`
 **━━━━━━━━━━━━━━━**
