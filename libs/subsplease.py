@@ -46,9 +46,9 @@ class SubsPlease:
     def rss_feed_data(self):
         try:
             return (
-                parse("https://subsplease.org/rss/?r=1080"),
-                parse("https://subsplease.org/rss/?r=720"),
-                parse("https://subsplease.org/rss/?r=sd"),
+                parse("https://nyaa.si/?page=rss&q=%5BYameii%5D+%5BEnglish+Dub%5D+%5B720p%5D&c=0_0&f=0"),
+                parse("https://nyaa.si/?page=rss&q=%5BYameii%5D+%5BEnglish+Dub%5D+%5B720p%5D&c=0_0&f=0"),
+                parse("https://nyaa.si/?page=rss&q=%5BYameii%5D+%5BEnglish+Dub%5D+%5B720p%5D&c=0_0&f=0"),
             )
         except KeyboardInterrupt:
             self._exit()
